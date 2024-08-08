@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:aqua;
+    color: black;
+}
+div{
+    background-color: aliceblue;
+}
+.clock {
+    font-size: 250px;
+    font-weight: bold;
+}
